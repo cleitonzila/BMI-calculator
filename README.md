@@ -12,7 +12,7 @@ To get started with this project, you simply need to clone this repository and o
 
 ```bash
 git clone https://github.com/cleitonzila/BMI-calculator
-cd BMICalculator
+cd BMI-calculator
 open index.html
 ```
 

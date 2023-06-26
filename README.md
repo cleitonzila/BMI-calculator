@@ -11,7 +11,7 @@ The BMI calculator receives the user's weight (in kg) and height (in cm) as inpu
 To get started with this project, you simply need to clone this repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/cleitonzila/BMICalculator
+git clone https://github.com/cleitonzila/BMI-calculator
 cd BMICalculator
 open index.html
 ```
